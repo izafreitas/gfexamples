@@ -8,7 +8,7 @@ cat Greeting ; Recipient ;
 fun
 
 Hello : Recipient -> Greeting ;
-Hi : Greeting ;
+Oi : Greeting ;
 
 GoodMorning : Recipient -> Greeting ;
 Morning : Greeting ;
